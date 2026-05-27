@@ -10,7 +10,9 @@ Product and Transformation Lead in Financial Services, with a strong focus on AI
 
 **[claude-skills](https://github.com/mercedesperezcapilla-gif/claude-skills)** — A library of reusable Claude skills, including an Automation Opportunity Finder and an FS Governance Tier Checker built for financial services professionals.
 
-**[secondary-spanish-mcp](https://github.com/mercedesperezcapilla-gif/secondary-spanish-mcp)** — An MCP server exposing UK secondary school Spanish vocabulary as Claude-callable tools. Built for [GCSE Spanish Master](https://github.com/mercedesperezcapilla-gif).
+**[secondary-spanish-mcp](https://github.com/mercedesperezcapilla-gif/secondary-spanish-mcp)** — An MCP server exposing UK secondary school Spanish vocabulary as Claude-callable tools. Part of the GCSE Spanish Master EdTech project.
+
+**[geo-explorer-web](https://github.com/mercedesperezcapilla-gif/geo-explorer-web)** — An interactive geography learning app for kids aged 6–12. Built with Claude Code — 195 countries, game modes, XP, badges, and levelling. EdTech proof that Claude Code can build real products fast.
 
 **[Chief_of_Staff](https://github.com/mercedesperezcapilla-gif/Chief_of_Staff)** — A personal Chief of Staff agent as a Claude Code skill. Surfaces what needs attention across projects, calendar, and priorities.
 
