@@ -22,9 +22,9 @@ Product and Transformation Lead in Financial Services, with a strong focus on AI
 
 I work at the intersection of AI, product, and transformation in financial services. My focus is on moving AI from evaluation to production — governance, adoption, and the human side of change that most projects underestimate.
 
-- 🎓 AIGP certification in progress
-- 🤝 [RepresentAI](https://representai.co.uk) · [Women Defining AI](https://www.womendefiningai.org)
 - 🛠️ Claude Code practitioner
+- 🤝 [RepresentAI](https://representai.co.uk) · [Women Defining AI](https://www.womendefiningai.org)
+- 🎓 Studying for AIGP — AI governance certification
 
 ---
 
