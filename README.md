@@ -12,7 +12,7 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 **[Chief_of_Staff](https://github.com/mercedesperezcapilla-gif/Chief_of_Staff)** — A customizable AI chief-of-staff agent, built as a Claude Code skill with the [Women Defining AI](https://www.womendefiningai.org) community. A shared, adaptable template — make it your own for your role and workflows.
 
-**Personal AI Wiki** — A practical guide to building an AI-maintained knowledge base on Andrej Karpathy's LLM Wiki pattern and Allie K Miller's AI Context Vault, plus the Claude Code slash commands (`/ingest`, `/lint`, `/save-to-vault`, `/daily`) that run it.
+**[Personal AI Wiki](https://github.com/mercedesperezcapilla-gif/WIKI)** — A persistent, AI-maintained knowledge base built on Andrej Karpathy's LLM Wiki pattern and Allie K Miller's AI Context Vault. Markdown pages that Claude ingests sources into, cross-references, and queries — so my AI starts every session already knowing how I work. Written up as a practical guide for non-developers.
 
 **[SurrealFA](https://github.com/mercedesperezcapilla-gif/SurrealFA)** — A financial knowledge graph that traces economic shockwaves through supply chains to reveal second and third-order consequences. Built with SurrealDB, LangGraph, and Python at the LangChain × SurrealDB Hackathon 2026.
 
