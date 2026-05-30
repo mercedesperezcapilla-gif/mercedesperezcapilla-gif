@@ -6,13 +6,11 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 ## AI Automation
 
-**[AI Automation Academy](https://ai-course-web.vercel.app)** — A practical course teaching business professionals to automate their work with Claude Code. 19 lessons, no coding background needed. Built from real experience deploying AI in production at scale.
+**[AI Automation Academy](https://ai-course-web.vercel.app)** — A practical course teaching business professionals to automate their work with Claude Code. 21 lessons, no coding background needed. Built from real experience deploying AI in production at scale.
 
 **[claude-skills](https://github.com/mercedesperezcapilla-gif/claude-skills)** — A library of reusable Claude skills for AI automation and FS governance. Includes an Automation Opportunity Finder and an FS Governance Tier Checker built for financial services professionals working in regulated environments.
 
-**[Chief_of_Staff](https://github.com/mercedesperezcapilla-gif/Chief_of_Staff)** — A personal Chief of Staff agent as a Claude Code skill. Surfaces what needs attention across projects, calendar, and priorities.
-
-**[SurrealFA](https://github.com/mercedesperezcapilla-gif/SurrealFA)** — A financial knowledge graph that traces economic shockwaves through supply chains to reveal second and third-order consequences. Built with SurrealDB, LangGraph, and Python at the SurrealDB Hackathon 2025.
+**[SurrealFA](https://github.com/mercedesperezcapilla-gif/SurrealFA)** — A financial knowledge graph that traces economic shockwaves through supply chains to reveal second and third-order consequences. Built with SurrealDB, LangGraph, and Python at the LangChain × SurrealDB Hackathon 2026.
 
 ---
 
