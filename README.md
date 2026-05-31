@@ -30,7 +30,7 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 ## Background
 
-I work at the intersection of AI, product, and transformation. In financial services I lead production AI deployment — I didn't evaluate Claude, I shipped it. In EdTech I build the tools I wish existed when my son was learning.
+I work at the intersection of AI, product, and transformation. 
 
 - 🛠️ Claude Code practitioner — I ship things, not demos
 - 🎓 AIGP — AI governance certification (in progress)
