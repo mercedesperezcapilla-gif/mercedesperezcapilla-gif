@@ -1,6 +1,4 @@
 ## Hi, I'm Mercedes 👋
-
-
 Product and Transformation Lead in Financial Services. Builder. EdTech maker. I work at the intersection of AI adoption, responsible AI, and products that help people learn and work better. Most of them are built with Claude Code.
 ---
 
