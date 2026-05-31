@@ -20,7 +20,7 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 ## EdTech
 
-**[MCP Spanish Secondary](https://github.com/mercedesperezcapilla-gif/secondary-spanish-mcp)** — AI-powered Spanish learning platform for UK secondary students, built with my husband. The MCP server exposes curriculum-aligned vocabulary as Claude-callable tools. Part of a broader platform targeting real GCSE outcomes — not flashcards, but adaptive, AI-native learning.
+**[MCP Spanish Secondary](https://github.com/mercedesperezcapilla-gif/secondary-spanish-mcp)** —  The MCP server exposes curriculum-aligned vocabulary as Claude-callable tools. Part of a broader platform targeting real GCSE outcomes — not flashcards, but adaptive, AI-native learning. A useful exercise to build your own MCP.
 
 **[geo-explorer-web](https://github.com/mercedesperezcapilla-gif/geo-explorer-web)** — Interactive geography learning app for kids aged 6–12. 195 countries, multiple game modes, XP system, badges, and levelling — built entirely with Claude Code without writing a line of code myself. Proof that a non-developer can ship a real, polished product fast. My son plays it.
 
