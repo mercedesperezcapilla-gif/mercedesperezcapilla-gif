@@ -1,6 +1,6 @@
 
 
-Product and Transformation Lead in Financial Services. Builder. EdTech maker. I work at the intersection of AI adoption, responsible AI, and products that help people learn and work better — and I build most of them with Claude Code.
+Product and Transformation Lead in Financial Services. Builder. EdTech maker. I work at the intersection of AI adoption, responsible AI, and products that help people learn and work better and I build most of them with Claude Code.
 
 ---
 
