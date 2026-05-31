@@ -22,7 +22,7 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 **[MCP Spanish Secondary](https://github.com/mercedesperezcapilla-gif/secondary-spanish-mcp)** —  MCP Spanish Secondary — An MCP server exposing curriculum-aligned Spanish vocabulary as Claude-callable tools. Part of a broader AI-native language learning platform, built as a practical MCP development exercise.
 
-**[geo-explorer-web](https://github.com/mercedesperezcapilla-gif/geo-explorer-web)** — Interactive geography learning app for kids aged 6–12. 195 countries, multiple game modes, XP system, badges, and levelling — built entirely with Claude Code without writing a line of code myself. Proof that a non-developer can ship a real, polished product fast. My son plays it.
+**[geo-explorer-web](https://github.com/mercedesperezcapilla-gif/geo-explorer-web)** — Interactive geography learning app for kids aged 6–12. 195 countries, multiple game modes, XP system, badges, and levelling — built entirely with Claude Code without writing a line of code myself. My son plays it.
 
 **EspañolShorts** — AI video pipeline generating short Spanish learning clips from curriculum content. Built with ElevenLabs and HeyGen. An AI-generated teacher delivers vocabulary, grammar, and worked examples — making content production scalable without a film crew or a studio.
 
