@@ -41,4 +41,4 @@ I work at the intersection of AI, product, and transformation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercedes-perez-capilla-6ba548/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mercedesperezcapilla-gif)
-[![Course](https://img.shields.io/badge/Claude%20Code%20for%20business%20leaders-b8892e?style=flat)](https://www.mercedeslab.ai/claude-code-for-business)
+[![Course](https://img.shields.io/badge/Mercedes%20Lab%20-b8892e?style=flat)](https://www.mercedeslab.ai/claude-code-for-business)
