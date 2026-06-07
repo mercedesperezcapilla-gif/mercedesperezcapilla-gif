@@ -18,7 +18,7 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 ---
 
-## EdTech
+## Building EdTech
 
 **[MCP Spanish Secondary](https://github.com/mercedesperezcapilla-gif/secondary-spanish-mcp)** —  MCP Spanish Secondary — An MCP server exposing curriculum-aligned Spanish vocabulary as Claude-callable tools. Part of a broader AI-native language learning platform, built as a practical MCP development exercise.
 
