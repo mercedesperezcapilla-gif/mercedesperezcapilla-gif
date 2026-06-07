@@ -4,7 +4,7 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 ---
 
-## AI Automation
+## Building AI products
 
 **[Mercedes Lab](https://www.mercedeslab.ai/)** — Courses, coaching, and writing on practical AI — from a technology and product leader who has shipped platforms into production in financial services. Claude-code-for-business leaders.
 
