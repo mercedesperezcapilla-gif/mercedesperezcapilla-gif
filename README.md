@@ -6,7 +6,7 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 ## AI Automation
 
-**[AI Automation Academy](https://ai-course-web.vercel.app)** — A practical course teaching business professionals to automate their work with Claude Code. 21 lessons, no coding background needed. Built from real experience.
+**[Mercedes Lab](https://www.mercedeslab.ai/)** — Courses, coaching, and writing on practical AI — from a technology and product leader who has shipped platforms into production in financial services. Claude-code-for-business leaders.
 
 **[claude-skills](https://github.com/mercedesperezcapilla-gif/claude-skills)** — A library of reusable Claude skills for AI automation and FS governance. Includes an Automation Opportunity Finder and an FS Governance Tier Checker built for  professionals working in regulated environments.
 
