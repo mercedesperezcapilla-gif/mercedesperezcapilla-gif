@@ -6,7 +6,7 @@ Product and Transformation Lead in Financial Services. Builder. EdTech maker. I 
 
 ## Building AI products
 
-**[Mercedes Lab](https://www.mercedeslab.ai/)** — Courses, coaching, and writing on practical AI — from a technology and product leader who has shipped platforms into production in financial services. (https://www.mercedeslab.ai/claude-code-for-business Claude-code-for-business leaders.
+**[Mercedes Lab](https://www.mercedeslab.ai/)** — Courses, coaching, and writing on practical AI — from a technology and product leader who has shipped platforms into production in financial services. Claude-code-for-business leaders.
 
 **[claude-skills](https://github.com/mercedesperezcapilla-gif/claude-skills)** — A library of reusable Claude skills for AI automation and FS governance. Includes an Automation Opportunity Finder and an FS Governance Tier Checker built for  professionals working in regulated environments.
 
@@ -41,4 +41,4 @@ I work at the intersection of AI, product, and transformation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercedes-perez-capilla-6ba548/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mercedesperezcapilla-gif)
-[![Course](https://img.shields.io/badge/AI%20Automation%20Academy-b8892e?style=flat)](https://www.mercedeslab.ai/claude-code-for-business)
+[![Course](https://img.shields.io/badge/Claude%20Code%20for%20business%20leaders-b8892e?style=flat)](https://www.mercedeslab.ai/claude-code-for-business)
